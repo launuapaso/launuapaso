@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="5C21A920-AFA9-4841-B359-4B160E8D2844" Version="2.0" Creator="SCRMAC-3.2.2-14633" Device="launuapaso-mbp" Author="" Modified="2021-06-11 13:50:26 +0300" ModID="BE12C96F-F80F-43E4-828F-BF2F1DDD56BE">
+    <Binder>
+        <BinderItem UUID="0A04D99C-736C-4BE2-A4E5-0AAF371361FE" Type="DraftFolder" Created="2020-12-25 20:06:21 +0300" Modified="2020-12-25 20:06:21 +0300">
+            <Title>Draft</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>B4DF134F-A4FD-4016-8101-A6C1B3E49992</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="B4DF134F-A4FD-4016-8101-A6C1B3E49992" Type="Text" Created="2020-12-25 21:17:02 +0300" Modified="2021-05-28 17:27:14 +0300">
+                    <Title>Заметки</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>318,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2B591B0E-6D0D-4752-A4FB-8B299CC76D08" Type="Text" Created="2021-05-26 08:46:53 +0300" Modified="2021-05-28 17:44:34 +0300">
+                    <Title>Черновик</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>260,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="C07538D7-D899-4349-8754-BE9BE4F978E3" Type="Folder" Created="2020-12-26 22:00:49 +0300" Modified="2020-12-26 22:00:56 +0300">
+            <Title>Episode 1</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>0F03752A-3B2E-4194-BE47-E3856033E458</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="4B201E0F-047A-4CF6-92A9-F35E7FE408FD" Type="Text" Created="2020-12-26 22:01:26 +0300" Modified="2021-06-06 10:22:30 +0300">
+                    <Title>Замысел</Title>
+                    <MetaData>
+                        <StatusID>5</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>148,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5399,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="96D2247C-644F-4084-822A-CDDA3F59375C"/>
+                        <Bookmark BinderUUID="4B201E0F-047A-4CF6-92A9-F35E7FE408FD"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="0F03752A-3B2E-4194-BE47-E3856033E458" Type="Text" Created="2021-05-31 15:35:46 +0300" Modified="2021-06-06 18:24:45 +0300">
+                    <Title>Ключевые этапы</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>50,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>386,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="7F7ED044-5556-410B-8ACD-3948A2D551C9" Type="Folder" Created="2021-01-02 18:48:19 +0300" Modified="2021-01-02 18:48:24 +0300">
+            <Title>Episode 2</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>696741C5-24BB-429F-84CB-BEE2B345A2F8</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="2ECA1AE8-4210-498A-B4C9-C1007256CC4F" Type="Text" Created="2021-01-02 18:49:52 +0300" Modified="2021-06-06 09:12:28 +0300">
+                    <Title>Замысел</Title>
+                    <MetaData>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1707,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="696741C5-24BB-429F-84CB-BEE2B345A2F8" Type="Text" Created="2021-05-28 16:41:10 +0300" Modified="2021-05-30 18:39:33 +0300">
+                    <Title>Черновик 2 эпизод</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1320,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A72F0B81-2918-4206-8F54-2E899D93E2AE" Type="Folder" Created="2021-01-03 16:09:04 +0300" Modified="2021-01-03 16:09:11 +0300">
+            <Title>Episode 3</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>61A4481F-D486-4D04-BDD2-AD4BC04FA2D4</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="96D2247C-644F-4084-822A-CDDA3F59375C" Type="Text" Created="2021-01-27 08:29:47 +0300" Modified="2021-06-06 09:12:39 +0300">
+                    <Title>Замысел</Title>
+                    <MetaData>
+                        <StatusID>5</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3730,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="61A4481F-D486-4D04-BDD2-AD4BC04FA2D4" Type="Text" Created="2021-02-22 12:58:03 +0300" Modified="2021-04-27 22:17:56 +0300">
+                    <Title>Набросок</Title>
+                    <MetaData>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>395,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="63294AAE-12CA-4D09-BFA3-50D9A388DF6B" Type="ResearchFolder" Created="2020-12-25 20:06:21 +0300" Modified="2020-12-25 21:44:22 +0300">
+            <Title>Research</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>F29720AC-F793-4F9D-90BF-670D84537A00</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="F29720AC-F793-4F9D-90BF-670D84537A00" Type="Text" Created="2021-02-09 10:14:53 +0300" Modified="2021-03-26 11:36:59 +0300">
+                    <Title>Материалы</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>108,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="7ED9C112-B841-4706-B491-359B2161C3CB" Type="TrashFolder" Created="2020-12-25 20:06:21 +0300" Modified="2020-12-25 20:06:21 +0300">
+            <Title>Trash</Title>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="D0681E63-9AEF-4E1C-BB39-4E022742FD0A" Color="0.95663 0.953514 0.957064">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="DD6C8A70-9F89-4854-99CF-3E32D361BB87" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="CE69909D-9AA9-4881-A94D-D06828A181CD" Color="0.992 0.973 0.769">
+            <Title>Synced Documents</Title>
+            <BinderUUIDs>B4DF134F-A4FD-4016-8101-A6C1B3E49992</BinderUUIDs>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="316B5ACB-136A-4F84-8D08-5B1E18FFE9C9">Heading</Type>
+            <Type ID="AEA96C88-525D-4928-9DBC-AD69DF350FBF">Sub-Heading</Type>
+            <Type ID="EEE2BF2F-EE24-47A5-A819-86C7FF847451">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>316B5ACB-136A-4F84-8D08-5B1E18FFE9C9</Type>
+            </Folders>
+            <Containers>
+                <Type>EEE2BF2F-EE24-47A5-A819-86C7FF847451</Type>
+            </Containers>
+            <Files>
+                <Type>EEE2BF2F-EE24-47A5-A819-86C7FF847451</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-12-25 20:06:21 +0300" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2021-06-12 00:00:00 +0300" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2021-06-11 13:50:14 +0300"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2021-06-11 00:00:00 +0300">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <BookmarksFolderUUID>C07538D7-D899-4349-8754-BE9BE4F978E3</BookmarksFolderUUID>
+    <AutoCompleteList>
+        <Completion Scope="0">Холл Университета</Completion>
+        <Completion Scope="2">Яркая Девушка</Completion>
+        <Completion Scope="2">Охранник</Completion>
+        <Completion Scope="-1">МОРАЛЬНЫЙ ВЫБОР</Completion>
+    </AutoCompleteList>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

@@ -1,0 +1,19 @@
+{
+  "AllowsScriptwriting" : true,
+  "DocStates" : {
+    "B4DF134F-A4FD-4016-8101-A6C1B3E49992" : {
+      "scrollPos" : "0"
+    },
+    "2ECA1AE8-4210-498A-B4C9-C1007256CC4F" : {
+      "scrollPos" : "109"
+    },
+    "96D2247C-644F-4084-822A-CDDA3F59375C" : {
+      "scrollPos" : "554"
+    },
+    "61A4481F-D486-4D04-BDD2-AD4BC04FA2D4" : {
+      "scrollPos" : "0"
+    }
+  },
+  "TextScaleFactor" : 2,
+  "TypewriterScrolling" : false
+}
